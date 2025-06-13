@@ -2,6 +2,7 @@
  
 
 This is a Python-based Anime Recommendation System that suggests anime titles to users based on their preferences. It uses collaborative filtering with user ratings and anime metadata, and provides an interactive UI using widgets.
+![image](https://github.com/user-attachments/assets/a44d2255-5a2b-425e-884f-99922239b4b9)
 
 
 
@@ -33,6 +34,6 @@ This project uses two main CSV files:
 - Jupyter Notebook (recommended for running the UI)
 
 ---
-![image](https://github.com/user-attachments/assets/49386861-4b50-49a1-a684-70a5bb2b4a48)
+
 
 
